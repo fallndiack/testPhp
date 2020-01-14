@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="822c2cc7-9e90-4b4e-ac0a-b0f3cfa6120a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4 (1)" />
+  <component name="ProjectId" id="1WOSAvs8Izve9vgQHkIHBgRF4vM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files/Php/php.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="822c2cc7-9e90-4b4e-ac0a-b0f3cfa6120a" name="Default Changelist" comment="" />
+      <created>1579019007250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579019007250</updated>
+      <workItem from="1579019009124" duration="5368000" />
+      <workItem from="1579026394727" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="133" key="#CLI_Interpreters" timestamp="1579024798068">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="380" y="133" key="#CLI_Interpreters/0.0.1600.860/-1920.0.1920.1040@0.0.1600.860" timestamp="1579024798068" />
+    <state x="507" y="21" key="#PHP" timestamp="1579024807333">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="507" y="21" key="#PHP/0.0.1600.860/-1920.0.1920.1040@0.0.1600.860" timestamp="1579024807333" />
+    <state x="564" y="233" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579025747227">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="564" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860/-1920.0.1920.1040@0.0.1600.860" timestamp="1579025747227" />
+    <state x="576" y="314" width="447" height="327" key="ComposerInitDialogKey" timestamp="1579022338512">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="576" y="314" width="447" height="327" key="ComposerInitDialogKey/0.0.1600.860/-1920.0.1920.1040@0.0.1600.860" timestamp="1579022338512" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1579026473778">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860/-1920.0.1920.1040@0.0.1600.860" timestamp="1579026473778" />
+    <state x="301" y="73" key="SettingsEditor" timestamp="1579026478029">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="301" y="73" key="SettingsEditor/0.0.1600.860/-1920.0.1920.1040@0.0.1600.860" timestamp="1579026478029" />
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1579026405315">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860/-1920.0.1920.1040@0.0.1600.860" timestamp="1579026405315" />
+    <state x="463" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1579021971867">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860/-1920.0.1920.1040@0.0.1600.860" timestamp="1579021971867" />
+  </component>
+</project>
